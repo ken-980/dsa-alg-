@@ -1,0 +1,8 @@
+/cpp/**/*.out
+/c/**/*.vscode
+/c/**/*.out
+
+/c++/**/*.vscode
+/c++/**/*.out
+
+/rust/**/*target/
